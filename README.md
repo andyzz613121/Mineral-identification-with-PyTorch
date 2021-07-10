@@ -3,7 +3,7 @@
 ## Requirements:
 •	Install python 3.6/newer, pytorch, scikit-image, opencv, tqdm, numpy, gdal. <br>
 ## Instruction:
-•	The folder of *Mineral_boundary_extarction* is used to train and test our proposed boundary extarction network. Users can change the file paths and some hyperparameters in the code.<br>
+•	The folder of *Mineral_boundary_extarction* is used to train and test our proposed boundary extarction network. Users can change the file paths and some hyperparameters in the code.<br><br>
 •	The folder of *Mineral_identification* is used to train and test our proposed mineral identification network. The fusion strategy of integrating the PPL model and XPL model together using soft voting is also included in the test stage. Users can change the file paths and some hyperparameters in the code.<br>
 ## Data Loader:
 •	In our program, csv files recording image paths of the training/testing dataset are needed.<br><br>
